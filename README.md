@@ -1,5 +1,5 @@
 # linuxflashplayer
-Instalador do flash player para linux.
+Instalador do Flash Player para Linux.
 ### Descrição
 O Flash Player no Linux pode ser utilizado em navegadores como firefox-esr e palemoon.
 ### Instalador gráfico 

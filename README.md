@@ -1,12 +1,6 @@
 # flashplayerlinux
-Backup do libflashplayer.so
+Instalador do flash para linux
 ### Descrição
-Este arquivo serve para instalar o flashplayer no linux, pode ser utilizado em navegadores como firefox-esr e palemoon.
-### Instalação individual por usuário do sistema
-```
-mkdir ~/.mozilla
-mkdir ~/.mozilla/plugins
-wget -P ~/.mozilla/plugins https://github.com/proxlu/flashplayerlinux/raw/main/libflashplayer.so
-```
-### Instalador gráfico do flashplayer 
+O flashplayer no linux pode ser utilizado em navegadores como firefox-esr e palemoon.
+### Instalador gráfico 
 # [Download](https://github.com/proxlu/flashplayerlinux/raw/main/flashplayer.bin)

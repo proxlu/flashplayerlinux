@@ -8,3 +8,5 @@ mkdir ~/.mozilla
 mkdir ~/.mozilla/plugins
 wget -P ~/.mozilla/plugins https://github.com/proxlu/flashplayerlinux/raw/main/libflashplayer.so
 ```
+### Instalador gráfico do flashplayer 
+# (Download)[https://github.com/proxlu/flashplayerlinux/raw/main/libflashplayer.so]
